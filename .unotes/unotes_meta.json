@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "public": {
+      "name": "public",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "src": {
+      "name": "src",
+      "isOrdered": true,
+      "folders": {
+        "components": {
+          "name": "components",
+          "isOrdered": true,
+          "folders": {},
+          "files": {
+            "todo": 0
+          }
+        }
+      },
+      "files": {}
+    },
+    "todo": {
+      "name": "todo",
+      "isOrdered": true,
+      "folders": {},
+      "files": {
+        "todo": 0
+      }
+    }
+  },
+  "files": {
+    "README": 0
+  }
+}
